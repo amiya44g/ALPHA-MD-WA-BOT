@@ -12,9 +12,9 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94784506970']
-global.premium = ['94784506970']
-global.ownernomer = '94784506970'
+global.owner = ['94714155276']
+global.premium = [94714155276']
+global.ownernomer = '94714155276'
 global.ownername = 'Mr Ameesha'
 global.botname = '🎭Mr Ameesha WhatsApp Bot🎭'
 global.footer = ' ᴀʟᴘʜᴀ ʙᴏᴛ-ᴍᴅ ᴇᴅɪᴛɪᴏɴ'
